@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Nama saya Setyadhi Putra Deriyanto. Saya mahasiswa di Universitas Dian Nuswantoro Semarang. Saya mulai belajar menjadi SysAdmin, dan Networking Security sejak 2012. Pengetahuan tentang hardware, dan pengetahuan tentang Security. Hobi saya adalah menonton anime dan membaca manga. :D
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:setyadhiputrad@gmail.com)
