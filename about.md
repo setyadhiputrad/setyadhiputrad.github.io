@@ -8,4 +8,6 @@ Nama saya Setyadhi Putra Deriyanto. Saya mahasiswa di Universitas Dian Nuswantor
 
 ### Contact me
 
-[email@domain.com](mailto:setyadhiputrad@gmail.com)
+[E-mail](mailto:setyadhiputrad@gmail.com)
+
+[No.HP](+6285712119459)
