@@ -28,7 +28,7 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/about">Tentang</a>
           </nav>
         </header>
       </div>
@@ -42,6 +42,16 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          <p class="copyright">
+            {{ site.name }}
+		        &nbsp;&bull;&nbsp;
+		        {{ site.time | date: '%Y' }}
+		        &nbsp;&bull;&nbsp; <a href="{{ site.url }}">{{ site.url }}</a>
+          </p>
+          <p class="theme-by">
+		        Theme by
+		        <a href="https://github.com/barryclark/jekyll-now">jekyll-now</a>
+          </p>
         </footer>
       </div>
     </div>
