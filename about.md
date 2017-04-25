@@ -10,4 +10,5 @@ Nama saya Setyadhi Putra Deriyanto. Saya mahasiswa di Universitas Dian Nuswantor
 
 [E-mail](mailto:setyadhiputrad@gmail.com)
 
-[No.HP](+6285712119459)
+[Telegram](https://telegram.me/Setyadhi)
+<!--[No.HP](+6285712119459)-->
